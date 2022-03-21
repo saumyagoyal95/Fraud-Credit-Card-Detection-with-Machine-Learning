@@ -42,12 +42,12 @@ from sklearn import preprocessing
 ## 🖥️ Findings <a name="installation"></a>
 
 Best Model that is selected for Detecting the Credit card fraud (after handling the imbalance):
-Model : XGBOOST model with Random Oversampling with StratifiedKFold CV
-XGboost roc_value: 0.9866310433921559
-XGBoost threshold: 0.00020692142425104976
+- Model : XGBOOST model with Random Oversampling with StratifiedKFold CV
+- XGboost roc_value: 0.9866310433921559
+- XGBoost threshold: 0.00020692142425104976
 
 Summary on best model on Imbalanced data :
-Model: Logistic Regression with L2 Regularisation with Repeated KFold Cross Validation
-Accuracy : 0.9987
-ROC: 0.9921
+- Model: Logistic Regression with L2 Regularisation with Repeated KFold Cross Validation
+- Accuracy : 0.9987
+- ROC: 0.9921
 
